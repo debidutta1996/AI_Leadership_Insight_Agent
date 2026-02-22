@@ -1,0 +1,16 @@
+# Virtualenv
+venv/
+
+# Environment variables/secrets
+.env
+
+# Data and manifest artifacts
+data/manifest.json
+data/chunk_cache.json
+
+# Chroma DB and vector store index
+chroma_store/
+
+# Python cache
+__pycache__/
+*.pyc
