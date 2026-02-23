@@ -30,6 +30,17 @@ AI-LEADERSHIP_INSIGHT_AGENT/
 ```
 
 ---
+## Tech Stack Used
+
+| Layer             | Library/Tool |
+|-------------------|--------------|
+| Language          | Python       |
+| PDF Processing    | pypdf        |
+| Vector DB         | chromadb     |
+| Embeddings & LLM  | openai       |
+| Keyword Retrieval | rank-bm25    |
+
+---
 
 ## Quickstart
 
@@ -65,3 +76,4 @@ You’ll see prompts to enter your leadership questions interactively.
 - No automated evaluation or traceability beyond citing document names.
 
 ---
+
